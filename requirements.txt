@@ -1,0 +1,3 @@
+supabase==0.7.1
+streamlit-supabase-auth
+toml
